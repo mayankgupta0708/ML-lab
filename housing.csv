@@ -1,0 +1,16 @@
+House_ID,Location,Area_sqft,Bedrooms,Bathrooms,Floors,Year_Built,Parking,Price_Lakhs
+1,Bangalore,1200,2,2,1,2015,1,75
+2,Mumbai,900,2,2,1,2012,0,120
+3,Delhi,1500,3,2,2,2018,1,95
+4,Chennai,1100,2,2,1,2014,1,65
+5,Hyderabad,1800,3,3,2,2020,2,110
+6,Pune,1300,3,2,1,2016,1,85
+7,Kolkata,1000,2,1,1,2010,0,55
+8,Bangalore,2000,4,3,2,2021,2,150
+9,Mumbai,750,1,1,1,2008,0,90
+10,Delhi,1600,3,3,2,2019,1,105
+11,Chennai,1400,3,2,1,2017,1,78
+12,Hyderabad,1250,2,2,1,2013,1,70
+13,Pune,1700,3,3,2,2022,2,115
+14,Kolkata,900,2,1,1,2009,0,50
+15,Bangalore,2200,4,4,3,2023,2,180
